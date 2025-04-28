@@ -5,3 +5,4 @@ Fix bug in feature X
 Rewrite function Y
 Update dependencies
 Add test cases
+Change theme color
